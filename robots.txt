@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paranparanjare-bot.github.io/new-website-br/sitemap.xml
